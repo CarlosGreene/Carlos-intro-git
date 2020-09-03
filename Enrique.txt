@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Soy Carlos xd
+=======
+El taller esta chido 
+>>>>>>> taller-info
